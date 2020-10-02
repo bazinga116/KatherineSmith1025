@@ -11,10 +11,21 @@ ICANN is a non profit corporation with a goal of ensuring and bringing together 
 
 #### TCP/IP
 
+TCP/IP is the Transmission Control Protocol/Internet Protocol. It is the protocol that interprets the details of how data is recieved and how it is sent. The client-server model applies to TCP/IP by the cient which is the computing device and the server that is what attends for connections. 
+
+Layers are important to changing technology becuase if a layer or job needs to be changed in any way, it can be without affecting the other layers. The types of applications that run on the "application layer" is HTTP, FTP, and SNMP. 
+
 #### Internet Security 
+
+
+HTTP stans for the HyperText Transfer Protocol. The protocol that secures HTTP is primarily used for viewing internet web pages and uses clear text to store all of the information within it. A different type of HTTP is HTTPS which is a Secure HyperText Transfer Protocol. HTTPS includes a security feature and the protocol ecrypts data being entered by the HTTP. 
 
 #### Securing your Web Browser
 
+Why should you secure your browser 
+
+explain one of the risks described in the article 
+'
 ### Internet Programming 
 
 #### World Wide Web Consortium
