@@ -21,14 +21,13 @@ Layers are important to changing technology becuase if a layer or job needs to b
 HTTP stans for the HyperText Transfer Protocol. The protocol that secures HTTP is primarily used for viewing internet web pages and uses clear text to store all of the information within it. A different type of HTTP is HTTPS which is a Secure HyperText Transfer Protocol. HTTPS includes a security feature and the protocol ecrypts data being entered by the HTTP. 
 
 #### Securing your Web Browser
+Securing your web browser is important because there is a threat of a software breach and revealing personal information in web browsers can becoma a way for attackers to compromise computer systems. One of the risks that are taken by not securing your web browser is the scripting in web pages can be used to evade systems. 
 
-Why should you secure your browser 
-
-explain one of the risks described in the article 
-'
 ### Internet Programming 
 
 #### World Wide Web Consortium
+Tim Berners-Lee is credited for being the inventor of the World Wide Web. He created the World Wide Web Consortium to be a world wide community of people who work together to create web guidelines/standards. The standard of my choice is Web Design and Applications. This standard is important because it is what involves the guidelines to creating and 
+providing web applications. 
 
 #### HTML5 and CSS
 
@@ -37,3 +36,4 @@ explain one of the risks described in the article
 ### Components of a URL
 
 ### Conclusion
+Throughout this assignment I learned how to explore protocols that support one on one connections on the internet. Also, to put into detial internet programming methodologies and practice creating a web page with HTML and CSS. I had a bit of an issue with the web page part of the assignment but, after a long time I figured it out on my own. I enjoyed this assignment and can't wait to see what is next.   
