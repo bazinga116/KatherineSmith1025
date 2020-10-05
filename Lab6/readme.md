@@ -30,10 +30,21 @@ Tim Berners-Lee is credited for being the inventor of the World Wide Web. He cre
 providing web applications. 
 
 #### HTML5 and CSS
+Each technology is important when creating a website. The HTML is important because it is what allows users to view a webpage. The CSS is important because it is what controls the look of a webite or domain. It controls the font, size, and colors of everything within the HTML. The approach I took for my webpage is back to where I started from. When I fisrt chose my major at Tri-C what I first had to do was look for the benefits of going through the college courses to become a coder/programmer. In my web page, it includes a few reasons why people who undergo this occupation and a variety of colors to catch the eye. 
 
 #### HTML and XML 
+XML and HTML are both markup languages but, are both fairly different. XML is an eXtensible Markup Language and was created to move. HTML is the HyperText Transfer Protocol and was created to show data. 
 
 ### Components of a URL
+Each of these terms below complete a URL which is a Uniform Resource Locator. The scheme of the URL is the protocol HTTP, the Domain contains the web address www.amazon.com, the top level domain containts the third domain .com, the default page is the file path which is the specific place you want to go through the web address, the parameters is the search you make about a website, and the anchor is the specific location on a web page such as the contact information page or cart to check out. 
+
+Mix and Match 
+Scheme: HTTPS
+Domain: www.amazon.com
+Top Level Domain: .edu
+Default Page: no file path provided
+Parameters: result of search
+Anchor: specific location on a page
 
 ### Conclusion
 Throughout this assignment I learned how to explore protocols that support one on one connections on the internet. Also, to put into detial internet programming methodologies and practice creating a web page with HTML and CSS. I had a bit of an issue with the web page part of the assignment but, after a long time I figured it out on my own. I enjoyed this assignment and can't wait to see what is next.   
