@@ -4,11 +4,7 @@ The purpose of this lab is to practice working with folders and files and to sur
 ### File Compression
 The purpose of file compression is to reduce the size of a files data space. When one or more files are grouped together, it is easier to share and takes up much less room than the orginal file(s). A common compression file includes the Zip and GZip. 
 
-The file size of my SVG graphic file is 57.6KB. 
-
-
-
-
+The file size of my SVG graphic file is 57.6KB. The file size of my SVG graphic in a compressed file in windows is 20.9KB. THe difference in file size is the compressed file folder holds a reduced amount of space compare to the regular file. What you might experience using a JPG is a smaller amount of storage. Jpg files are normally small but, vary depending on size. 
 
 ### Object Oriented Programming (OOP)
 
