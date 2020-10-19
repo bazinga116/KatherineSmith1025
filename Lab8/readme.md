@@ -18,10 +18,7 @@ RDBMS is the Realational Database Management System. RDBMS relates to SQL by pro
 The two related tables I have chosen is the products and suppliers tables. The primary keys in each table correspond with each identity document. The relationship between the product and the supplier is the product is recieved from the supplier. The supplier is what creates every single product. 
 
 ### SQL Injections
-
-Explain how SQL injections are a security threat and what can be done to reduce the issue. 
- 
-
+SQL injections are a security threat because it is a technique that is used to destroy databases and is usually unnoticeable. Something that can be done to reduce the issue is to use SQL parameters. 
 ### Ethical and Legal Implications
 
 #### Code of Ethics 
@@ -33,10 +30,8 @@ Link: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-
 #### Intellectual Property
 WIPO is a world wide convocation  and their mission is to partake in the development of a balanced and effective international intellectual property system. Copyright is obtained when the creator of a work of literature or art has rights to it. The benefits with registering for a copyright with the US Copyright Office is the full all exclusive rights to a work. It might be important to copyright the svg image that I have created because it would protect others from copying my work.
  
- If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property. 
- 
 #### Information Collection
 COPPA restricts the collection of information on the internet because it is the Children's Online Privacy Protection Act. It stops the collection of data for children under the age of 13. FERPA restricts the collection of information on the internet because it is the Family Educational Rights and Privacy Act. It stops the revealance of a childrens behavior or grades only to the student or parent. HIPPA restricts the collection of information on the internet becaus it is the Health Insurance Portability and Accountability Act. It gives the parents rights to their child's information and controls who can see them.  
 
 ### Conclusion
-Throughout this lab I have learned to recognize key ethical and legal implications of information systems. This lab is to also describle various database models and practice querying a database with SQL. 
+Throughout this lab I have learned to recognize key ethical and legal implications of information systems. This lab is to also describle various database models and practice querying a database with SQL. I did run into one issue regarding the SQL coding submission but, after trial-and-error I completed the assignment. I have loved this course and have learned so much from it!
