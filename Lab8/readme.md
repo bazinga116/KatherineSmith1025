@@ -13,8 +13,14 @@ The primary key in customers and orders table would be the table numbers. The cu
 The four "Vs" of big data include the volume, velocity, variety, and veracity. Volume is the amount fo data and is the main characteristic that makes big data big. Velocity is the motion of data. Variety is the different type of data and data assets. Veracity is the earnestness of data. 
 
 ### Structured Query Language(SQL)
+RDBMS is the Realational Database Management System. RDBMS relates to SQL by providing its foundation. The purpose of SQL is to gain permission and mainpulate databases. 
+
+The two related tables I have chosen is the products and suppliers tables. The primary keys in each table correspond with each identity document. The relationship between the product and the supplier is the product is recieved from the supplier. The supplier is what creates every single product. 
 
 ### SQL Injections
+
+Explain how SQL injections are a security threat and what can be done to reduce the issue. 
+ 
 
 ### Ethical and Legal Implications
 
